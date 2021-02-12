@@ -1,5 +1,6 @@
 package listaenlazada;
 //fecha:12.2.2021
+//popo
 public class ListaEnlazada {
 	//atributos, apunta o referencia al primer nodo de la lista
 	Nodo inicio; 
